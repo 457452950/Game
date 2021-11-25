@@ -1,0 +1,14 @@
+﻿  Game.cpp
+  GameLevelConfig.cpp
+  Graphic.cpp
+  IntRander.cpp
+E:\Program\VS2019\myAPP\Game\Sweeper\IntRander.cpp(11,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  ScreenDataStructure.cpp
+E:\Program\VS2019\myAPP\Game\Sweeper\ScreenDataStructure.cpp(20,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Program\VS2019\myAPP\Game\Sweeper\ScreenDataStructure.cpp(21,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Sweeper.cpp
+  SweeperGraphic.cpp
+  正在生成代码...
+E:\Program\VS2019\myAPP\Game\Sweeper\Sweeper.cpp(397): warning C4715: “Sweeper::getBlockState”: 不是所有的控件路径都返回值
+  Sweeper.vcxproj -> E:\Program\VS2019\myAPP\Game\Sweeper\x64\Debug\Sweeper.exe

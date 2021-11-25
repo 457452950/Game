@@ -1,0 +1,30 @@
+#pragma once
+#ifndef _APPCONFIG_H
+#define _APPCONFIG_H
+
+#define DEFAULT_MAP_SIZE_HIGHT		20 
+#define DEFAULT_MAP_SIZE_WIDTH		20
+
+#define LOW_LEVEL_MAP_SIZE			10
+#define MIDEL_LEVEL_MAP_SIZE		20
+
+#define HIGH_LEVEL_MAP_SIZE_HIGHT	20
+#define HIGH_LEVEL_MAP_SIZE_WIDTH	40
+
+#define LOW_LEVEL_MINE_NUMBER		10
+#define	MIDEL_LEVEL_MINE_NUMBER		40
+#define HIGN_LEVEL_MINE_NUMBER		99
+
+#define SCREEN_WIDTH 800
+#define SCREEN_HIGHT 600
+
+
+
+
+
+
+
+#endif // !_APPCONFIG_H
+
+
+
